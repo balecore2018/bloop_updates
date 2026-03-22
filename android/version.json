@@ -4,5 +4,5 @@
   "downloadUrl": "https://raw.githubusercontent.com/balecore2018/bloop_updates/main/android/bloop.apk",
   "notes": "",
   "checksum": "",
-  "required": false
+  "required": true
 }
