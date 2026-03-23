@@ -1,8 +1,8 @@
 {
-  "version": "1.1",
+  "version": "1.0",
   "minVersion": "",
   "downloadUrl": "https://raw.githubusercontent.com/balecore2018/bloop_updates/main/android/bloop.apk",
-  "notes": "Светлая тема, интерфейс, профили",
+  "notes": "-",
   "checksum": "",
-  "required": true
+  "required": false
 }
